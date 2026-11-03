@@ -2,4 +2,8 @@ Team Project
 Version 1.0
 Feature A implemented
 Feature B implemented
+<<<<<<< HEAD
 this short change made by john and jeff
+=======
+this short change made by jeff
+>>>>>>> 6fd01dc (short change for rebase training done by jeff)
